@@ -1,7 +1,7 @@
 # PBO LKS — Portofolio Praktikum
-- Nama : ____________________
-- NIM : ____________________
-- Kelas: ____________________
+- Nama : Derriel Mulya Ramadhan
+- NIM : H1101251026
+- Kelas: PBO A
 ## Daftar Pertemuan
 - [ ] Pertemuan 1 — Setup & Database
 - [ ] Pertemuan 2 — Core OOP
